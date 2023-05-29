@@ -1,2 +1,2 @@
-# -Doudizhu
+# Doudizhu
 wonderful StarCraft maps
