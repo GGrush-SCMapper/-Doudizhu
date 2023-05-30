@@ -1,5 +1,3 @@
-![preview](F:\StarCraft\Maps\SCEdit\斗地主\preview_斗地主Doudizhu 2.7.0.bmp)
-
 # 斗地主2代：专业竞技版
 
 * 定位：专业竞技
